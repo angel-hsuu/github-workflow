@@ -1,3 +1,3 @@
 # github-workflow
 
-All that you change
+All that you change, changes you.
